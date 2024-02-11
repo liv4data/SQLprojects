@@ -89,6 +89,6 @@ If It Bleeds,2020,446,4
 Later,2021,256,3.99
 Billy Summers,2021,528,4.22
 Gwendy's Final Task,2022,412,4.11
-Fairy Tale,2022,608,4.15
+Fairy Tale,2022,608,4.15;
 select Title, goodreads_rating
 where goodreads_rating > 4;
